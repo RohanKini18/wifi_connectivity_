@@ -3,8 +3,8 @@ Wi-Fi microchip that's used in many Internet of Things (IoT) devices, such as ``
 ***
 a system on a chip (SOC) with a built-in TCP/IP protocol stack that allows microcontrollers to connect to Wi-Fi networks and perform a variety of functions, including: 
 
-1.Networking 
-2.Data processing 
+1. Networking 
+2. Data processing 
 3.P2P connectivity 
 4.Web server 
 5.Managing Wi-Fi network operations 
