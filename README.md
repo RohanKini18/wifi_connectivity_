@@ -1,4 +1,4 @@
-# ESP8266 Wi-Fi microchip
+# ESP8266 Wi-Fi microchip - Building a Wi-Fi Hacking Toolkit 
 Wi-Fi microchip that's used in many Internet of Things (IoT) devices, such as ```smart security, energy, industrial, and medical devices```.
 ***
 a system on a chip (SOC) with a built-in TCP/IP protocol stack that allows microcontrollers to connect to Wi-Fi networks and perform a variety of functions, including: 
